@@ -1,0 +1,5 @@
+#Daten
+data/
+
+#Virtual Environment
+.venv/
